@@ -17,25 +17,8 @@
 .nav-item {
     font-size: 20px;
 }
-.head {
-    margin: 50px auto 75px auto;
-}
-
-.picture {
-    height: 200px;
-    width: 200px;
-}
-.flavour {
-    height: 150px;
-    width: 150px;
-}
-
-.card {
-    width: 25rem;
-    margin: 20px auto;
-}
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.container-form {
+    margin: 75px auto;
 }
 .order {
     display: flex;
