@@ -1,0 +1,40 @@
+.body {
+    margin: 0;
+}
+
+.nav-name {
+    color: whitesmoke;
+    font-size: 30px;
+}
+.cup {
+    height: 45px;
+    width: 75px;
+}
+
+.navbar {
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.233);
+}
+
+.intro {
+    margin: 50px 50px;
+}
+.flavour {
+    height: 200px;
+    width: 200px;
+}
+.flav {
+    margin: auto auto 45px auto;
+    color: rgb(241, 13, 100);
+}
+.order {
+    display: flex;
+    justify-content: center;
+}
+.btn-outline-primary {
+    border-color: rgb(241, 13, 100) ! important ;
+    color: rgb(241, 13, 100) ! important;
+}
+.btn-outline-primary:hover {
+    background-color:rgb(241, 13, 100) ! important;
+    color: whitesmoke ! important;
+}
