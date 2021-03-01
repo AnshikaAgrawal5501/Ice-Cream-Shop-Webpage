@@ -13,6 +13,7 @@
 
 .navbar {
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.233);
+    background-color: rgb(241, 13, 100);
 }
 .nav-item {
     font-size: 20px;
@@ -66,7 +67,3 @@
 .text {
     color: whitesmoke;
 }
-/* .image {
-    height: auto;
-    width: 200px;
-} */

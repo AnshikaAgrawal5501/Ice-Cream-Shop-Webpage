@@ -13,6 +13,7 @@
 
 .navbar {
     box-shadow: 0 3px 5px rgba(0, 0, 0, 0.233);
+    background-color: rgb(241, 13, 100);
 }
 .nav-item {
     font-size: 20px;
@@ -23,7 +24,7 @@
 .order {
     display: flex;
     justify-content: center;
-    margin: 75px auto;
+    margin: 30px auto 75px auto;
 }
 .btn-outline-primary {
     border-color: rgb(241, 13, 100) ! important ;
@@ -35,4 +36,8 @@
 }
 .btn-outline-primary:focus{
     box-shadow: 0 0 0 .2rem rgba(233, 55, 123, 0.541) !important;
+}
+.form-control:focus{
+    box-shadow: 0 0 0 .2rem rgba(233, 55, 123, 0.541) !important;
+    border-color: rgb(241, 13, 100) ! important ;
 }
