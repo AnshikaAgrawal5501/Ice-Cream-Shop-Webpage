@@ -41,3 +41,12 @@
     box-shadow: 0 0 0 .2rem rgba(233, 55, 123, 0.541) !important;
     border-color: rgb(241, 13, 100) ! important ;
 }
+.icons {
+    color:rgb(241, 13, 100) !important;
+    font-size:24px !important;
+    margin-right: 15px;
+}
+.footer {
+    color: rgb(241, 13, 100);
+    background-color: rgba(253, 200, 209, 0.808) ! important;
+}

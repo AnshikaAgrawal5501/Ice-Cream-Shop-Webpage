@@ -67,3 +67,15 @@
 .text {
     color: whitesmoke;
 }
+.icons {
+    color:rgb(241, 13, 100) !important;
+    font-size:24px !important;
+    margin-right: 15px;
+}
+.footer {
+    color: rgb(241, 13, 100);
+    background-color: rgba(253, 200, 209, 0.808) ! important;
+}
+.review {
+    margin: 10px;
+}
